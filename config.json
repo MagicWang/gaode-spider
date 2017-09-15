@@ -1,0 +1,26 @@
+{
+    "pgConfig": {
+        "user": "postgres",
+        "password": "netposa",
+        "database": "gaode",
+        "host": "localhost",
+        "port": 5432,
+        "max": 50,
+        "idleTimeoutMillis": 3000
+    },
+    "gaodeConfig": {
+        "keys": [
+            "a7e351433c5cd07931fccfe27d95a3aa",
+            "e694f9a97bc828183031c091b73412b0",
+            "7f469e0201b01e180c87c2183c08ce90",
+            "77a6114f023eb2bb5baabd2b1297a9ef",
+            "fee70ab6e2fe98921c685140353d3a0e",
+            "45f565001fe2f457bf60919e6c44d0cf",
+            "673aa84ce1a057bb776bc2def37ad29d",
+            "e5c76926de23b7b85190a539dfa0f4f9",
+            "9704a57467ea998fea1ee69a085e2cfa",
+            "dd8a2decd071381d1c65ef2b8096589b"
+        ],
+        "city": "0755"
+    }
+}
