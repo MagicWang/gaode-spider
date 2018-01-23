@@ -10,16 +10,18 @@
   "license": "ISC",
   "dependencies": {
     "@types/jsts": "^0.16.29",
-    "@types/pg": "^7.1.4",
     "@types/node": "~8.0.34",
+    "@types/pg": "^7.1.4",
+    "@types/pinyin": "^2.8.0",
     "@types/request": "~2.0.6",
     "file-system": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.2",
     "jsts": "^1.4.0",
     "node-xlsx": "^0.11.0",
     "pg": "^7.3.0",
+    "pinyin": "^2.8.3",
     "request": "^2.81.0",
-    "typescript": "^2.5.3",
-    "gulp": "^3.9.1",
-    "gulp-typescript": "^3.2.2"
+    "typescript": "^2.5.3"
   }
 }
